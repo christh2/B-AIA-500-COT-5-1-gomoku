@@ -1,0 +1,1 @@
+# B-AIA-500-COT-5-1-gomoku
